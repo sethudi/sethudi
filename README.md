@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Sethudi 👋  
+I'm a Computer Science graduate passionate about software engineering, and cloud computing (AWS).
 
-<!--
-**sethudi/sethudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Proficient Languages: Python, JavaScript, Java, C++, SQL
+- Knowledgeable Language and Technologies: Docker, Kubernetes, Express JS, Ruby
+- Other Languages and Technologies: AWS, Git, React, HTML, CSS, Linux, Flask, Django
 
-Here are some ideas to get you started:
+## 📂 Featured Projects
+- [Sorting-Visualizer](https://hardcore-knuth-c77bf6.netlify.app/): Web application to visualize computer science Sorting algorithms.
+- [PathFinding-Visualizer](https://infallible-jang-6e8699.netlify.app/): Web application to visualize computer science Path-Finding algorithms.
+- [ToastMachine](https://toastmachine.netlify.app/): Web Toast machine to mimic the actual Toast machine:.
+- [Snake-Game](https://calm-pegasus-65ba31.netlify.app/): Web Game Snake-Game:.
+- [Flight CRUD App](https://github.com/sethudi/csir-crud-flightsApp): Built a Flask app with full CRUD for managing flights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- AWS Solutions Architect Associate – In Progress
+- AWS Cloud Practitioner – Completed
+- FrontEndExpert - awarded this certificate for creating webpages in HTML, CSS, and JavaScript
+- Linux - Obtained this certificate for mastering the basics of Linux Administration on Udemy
+
+## 📫 Reach Me
+- 📧 Email: stmapunya@gmail.com
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sethudi/)
